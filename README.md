@@ -10,7 +10,7 @@
 - Getting the HTML from the page, and parsing it to:
     - Extract the href value of any <a> tag, and saving it to a list of unscraped urls if it hasn't already been found
     - Any <title> tags that are found are saved to a text file with the website url included
-    - A summary of how many links found is printed out, then the program will, after the user presses enter, scrape a random unscraped url
-    - The program will end when there are no more urls to scrape, or 'x' is pressed
+- A summary of how many links found is printed out, then the program will, after the user presses enter, scrape a random unscraped url
+- The program will end when there are no more urls to scrape, or 'x' is pressed
 
 The project doesn't really have a purpose, just to see what random places you can get from a url!
