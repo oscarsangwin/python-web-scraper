@@ -40,7 +40,7 @@ parser = MyHTMLParser()
 to_scrape = []
 scraped = []
 
-to_scrape.append(input('Website to scrape: ')) # Example: 'https://www.bbc.co.uk/news'
+to_scrape.append(input('Website to scrape (e.g. https://www.bbc.co.uk/news): '))
 
 user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
 
